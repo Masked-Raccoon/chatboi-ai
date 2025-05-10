@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.venv/
+ENV/
+venv/
+pip-log.txt
+*.sqlite3
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Security
+.env
